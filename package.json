@@ -1,0 +1,57 @@
+{
+  "name": "@vassale/sitare",
+  "version": "1.0.0",
+  "description": "A professional React hook for password visibility toggle with accessibility and customization support.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    }
+  },
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "test": "vitest",
+    "lint": "tsc"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "password",
+    "visibility",
+    "toggle",
+    "accessibility",
+    "a11y",
+    "input",
+    "form"
+  ],
+  "author": "Ömer Gülçiçek <iletisim@omergulcicek.com> (https://omergulcicek.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^14.2.1",
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "jsdom": "^24.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3",
+    "vitest": "^1.3.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
