@@ -1,7 +1,7 @@
 {
   "name": "@vassale/sitare",
   "version": "1.0.0",
-  "description": "A professional React hook for password visibility toggle with accessibility and customization support.",
+  "description": "Fully accessible and customizable password visibility hook for React.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

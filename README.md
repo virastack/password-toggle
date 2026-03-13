@@ -4,7 +4,7 @@
 
 # Sitare
 
-**A professional, accessible, and customizable React hook for password visibility toggling.**
+**Fully accessible and customizable password visibility hook for React.**
 
 Sitare is a lightweight, framework-agnostic hook designed to handle password visibility toggling with ease. It prioritizes accessibility, offers smart defaults, and allows full customization of icons and UI components.
 
