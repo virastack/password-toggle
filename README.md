@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.npmjs.com/package/@virastack/password-toggle">
-    <img src="https://img.shields.io/npm/v/@virastack/password-toggle?style=flat-square&color=black" alt="npm version" />
+    <img src="https://img.shields.io/npm/v/@virastack/password-toggle" alt="npm version" />
   </a>
   <a href="https://www.npmjs.com/package/@virastack/password-toggle">
-    <img src="https://img.shields.io/npm/dt/@virastack/password-toggle?style=flat-square&color=black" alt="npm downloads" />
+    <img src="https://img.shields.io/npm/dt/@virastack/password-toggle" alt="npm downloads" />
   </a>
   <a href="https://bundlephobia.com/package/@virastack/password-toggle">
-    <img src="https://img.shields.io/bundlephobia/minzip/@virastack/password-toggle?style=flat-square&color=black" alt="bundle size" />
+    <img src="https://img.shields.io/bundlephobia/minzip/@virastack/password-toggle" alt="bundle size" />
   </a>
 </div>
 
