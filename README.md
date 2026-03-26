@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/hero.jpg" alt="Vira Stack Password" />
+  <img src="./public/password.jpg" alt="Vira Stack Password" />
 </div>
 
 <br />
